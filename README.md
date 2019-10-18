@@ -1,6 +1,7 @@
-# work-work-vim
+work-work-vim
+====
 
-Vim Commands:
+#### Vim Commands:
 
 r - replace (r + letra)
 
